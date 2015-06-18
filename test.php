@@ -1,1 +1,4 @@
-<?php echo 'nasmin';?>
+<?php echo 'nasmin';
+echo 'dd';
+exit;
+?>
